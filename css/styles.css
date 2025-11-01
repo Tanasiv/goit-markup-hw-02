@@ -48,12 +48,12 @@ a {
 }
 
 .nav-link:hover,
-.nav-link:focus
-{ color: #404bbf;
+.nav-link:focus {
+  color: #404bbf;
 }
 
 .contacts-link:hover,
-.contakts-link:focus {
+.contacts-link:focus {
   color: #404bbf;
 }
 
@@ -79,11 +79,12 @@ h1 {
   letter-spacing: 0.04em;
   font-weight: 500;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background-color: #4D5AE5
+  background-color: #4d5ae5;
   cursor: pointer;
   color: #ffffff;
 }
-.button-klick:hover .button-klick:focus {
+.button-klick:hover,
+.button-klick:focus {
   background-color: #404bbf;
 }
 
@@ -94,8 +95,7 @@ h1 {
 
 .section-list {
   font-weight: 500;
-  font-size: 20px
-  line-height: 1.2;
+  font-size: 20px;
   letter-spacing: 0.02em;
   color: #434455;
   text-align: left;
@@ -125,11 +125,11 @@ h1 {
   color: #2e2f42;
 }
 
-.text-list{
- font-size: 16px;
- line-height: 1.5;
- letter-spacing: 0.02em;
- color: #434455;
+.text-list {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .team-item {
@@ -139,10 +139,10 @@ h1 {
   text-align: center;
 }
 
-.text-trade{
+.text-trade {
   font-size: 16px;
   line-height: 1.5;
-  etter-spacing: 0.02em
+  letter-spacing: 0.02em;
 }
 
 .name {
@@ -163,7 +163,6 @@ h1 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  line-height: 1.2
 }
 
 .portfolio-text {
@@ -181,14 +180,13 @@ h1 {
 }
 
 .footer-text {
- ine-height: 1.5;
- #F4F4FD;
- letter-spacing: 0.02em;
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
 .comment {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
-  color: #F4F4FD; 
-  letter-spacing: 0.02em
+  color: #f4f4fd;
 }

@@ -61,7 +61,7 @@ a {
   background-color: #2e2f42;
 }
 
-.h1-name {
+.h-one-name {
   line-height: 1.07;
   letter-spacing: 0.02em
   font-size: 56px;
@@ -101,7 +101,7 @@ a {
   text-align: left;
 }
 
-.h2-name {
+.h-two-name {
   font-weight: 500;
   font-size: 36px;
   line-height: 1.1;
